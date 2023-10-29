@@ -1,0 +1,10 @@
+// The program input for insertion_sort/src/main.leo
+[main]
+num1: i128 = 5i128;
+num2: i128 = 3i128;
+num3: i128 = 10i128;
+num4: i128 = 5i128;
+num5: i128 = 0i128;
+num6: i128 = 50i128;
+num7: i128 = 20i128;
+num8: i128 = 2i128;
